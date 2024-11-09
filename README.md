@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-Bofu Zou
-bzou@ucsd.edu
+Bofu Zou and Jessica Zhang
